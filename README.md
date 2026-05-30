@@ -1,4 +1,4 @@
-# Quant Finance Physics Project 1
+# Proyecto 1 de Física de Finanzas Cuantitativas 
 
 Análisis de series temporales financieras utilizando Python, simulaciones Monte Carlo y aprendizaje automático.
 
